@@ -4,7 +4,7 @@
 
 ## 🌱 Projects in Progress
 
-- Right now, I'm focusing on honing my skills through various exercises and projects. In the future, I plan to share my work here, so feel free to check back later!
+• Right now, I'm focusing on honing my skills through various exercises and projects. In the future, I plan to share my work here, so feel free to check back later!
 
 
 • I have fun while learning to program 💜 
