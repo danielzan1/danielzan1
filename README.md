@@ -7,7 +7,13 @@
 Right now, I'm focusing on honing my skills through various exercises and projects. In the future, I plan to share my work here, so feel free to check back later!
 
 
-Thank you for visiting my repository!
+• I have fun while learning to program 💜 
+
+• Seeking to collaborate projects.
+
+• Thanks for visiting. 
+
+ 🤗 Enjoy it!! o/
 
 
 <div style="display: inline_block"><br>
