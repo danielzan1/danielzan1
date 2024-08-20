@@ -1,8 +1,8 @@
-# Olá! 👋
+# Olá Mundo! 👋
 
  I'm currently learning web development with HTML, CSS, and JavaScript.
 
-## 🌱 Projects in Progress
+## 🌱 Practice Makes Perfect
 
 • Right now, I'm focusing on honing my skills through various exercises and projects. In the future, I plan to share my work here, so feel free to check back later!
 
